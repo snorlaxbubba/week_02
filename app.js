@@ -13,16 +13,14 @@ app.get("/", async (req, res) => {
     res.render('index.ejs', {pokemon:pokemon, pokemonSql})
 })
 
-app.post("/:id", async (req, res) => {
-    const {pokemonId} = req.body
-    const pokemonIds = await database.getPokemonById(pokemonId)
-    res.render('single.ejs', {pokemonIds: pokemonIds})
-})
 
 app.post("/createPokemon", async (req, res) => {
     const {title, pokemon, numDefeated} = req.body
 
+    console.log("sanity check")
     await database.addPokemon(title, pokemon, numDefeated)
+
+
 
     res.redirect('/')
 })
@@ -33,6 +31,13 @@ app.post("/deletePokemon", async (req, res) => {
     await database.deletePokemon(id)
 
     res.redirect("/")
+})
+
+
+app.post("/:id", async (req, res) => {
+    const {pokemonId} = req.body
+    const pokemonIds = await database.getPokemonById(pokemonId)
+    res.render('single.ejs', {pokemonIds: pokemonIds})
 })
 
 const port = process.env.PORT || 8080

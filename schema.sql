@@ -11,9 +11,4 @@ GRANT ALL PRIVILEGES ON pokemon_app.* TO 'pokemon_app_user'@'localhost';
 --Create All Tables
 DROP TABLE IF EXISTS pokemon;
 
-CREATE TABLE pokemon (
-    id INTEGER PRIMARY KEY AUTO_INCREMENT,
-    title VARCHAR(255) NOT NULL,
-    pokemon VARCHAR(255) NOT NULL,
-    numDefeated INTEGER NOT NULL
-);
+CREATE TABLE pokemon (id INTEGER PRIMARY KEY AUTO_INCREMENT, title VARCHAR(255) NOT NULL, pokemon VARCHAR(255) NOT NULL, numDefeated INTEGER NOT NULL);
