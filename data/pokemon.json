@@ -1,0 +1,1011 @@
+
+[
+    {
+        "pokemon": "Pikachu"
+    },
+    {
+        "pokemon": "Raichu"
+    },
+    {
+        "pokemon": "Jigglypuff"
+    },
+    {
+        "pokemon": "Wigglytuff"
+    },
+    {
+        "pokemon": "Venonat"
+    },
+    {
+        "pokemon": "Venomoth"
+    },
+    {
+        "pokemon": "Diglett"
+    },
+    {
+        "pokemon": "Dugtrio"
+    },
+    {
+        "pokemon": "Meowth"
+    },
+    {
+        "pokemon": "Persian"
+    },
+    {
+        "pokemon": "Psyduck"
+    },
+    {
+        "pokemon": "Golduck"
+    },
+    {
+        "pokemon": "Mankey"
+    },
+    {
+        "pokemon": "Primeape"
+    },
+    {
+        "pokemon": "Growlithe"
+    },
+    {
+        "pokemon": "Arcanine"
+    },
+    {
+        "pokemon": "Slowpoke"
+    },
+    {
+        "pokemon": "Slowbro"
+    },
+    {
+        "pokemon": "Magnemite"
+    },
+    {
+        "pokemon": "Magneton"
+    },
+    {
+        "pokemon": "Grimer"
+    },
+    {
+        "pokemon": "Muk"
+    },
+    {
+        "pokemon": "Shellder"
+    },
+    {
+        "pokemon": "Cloyster"
+    },
+    {
+        "pokemon": "Gastly"
+    },
+    {
+        "pokemon": "Haunter"
+    },
+    {
+        "pokemon": "Drowzee"
+    },
+    {
+        "pokemon": "Hypno"
+    },
+    {
+        "pokemon": "Voltorb"
+    },
+    {
+        "pokemon": "Electrode"
+    },
+    {
+        "pokemon": "Chansey"
+    },
+    {
+        "pokemon": "Scyther"
+    },
+    {
+        "pokemon": "Tauros"
+    },
+    {
+        "pokemon": "Magikarp"
+    },
+    {
+        "pokemon": "Gyarados"
+    },
+    {
+        "pokemon": "Ditto"
+    },
+    {
+        "pokemon": "Eevee"
+    },
+    {
+        "pokemon": "Vaporeon"
+    },
+    {
+        "pokemon": "Jolteon"
+    },
+    {
+        "pokemon": "Flareon"
+    },
+    {
+        "pokemon": "Dratini"
+    },
+    {
+        "pokemon": "Dragonair"
+    },
+    {
+        "pokemon": "Pichu"
+    },
+    {
+        "pokemon": "Igglybuff"
+    },
+    {
+        "pokemon": "Mareep"
+    },
+    {
+        "pokemon": "Flaaffy"
+    },
+    {
+        "pokemon": "Ampharos"
+    },
+    {
+        "pokemon": "Marill"
+    },
+    {
+        "pokemon": "Azumarill"
+    },
+    {
+        "pokemon": "Sudowoodo"
+    },
+    {
+        "pokemon": "Hoppip"
+    },
+    {
+        "pokemon": "Skiploom"
+    },
+    {
+        "pokemon": "Jumpluff"
+    },
+    {
+        "pokemon": "Sunkern"
+    },
+    {
+        "pokemon": "Sunflora"
+    },
+    {
+        "pokemon": "Wooper"
+    },
+    {
+        "pokemon": "Espeon"
+    },
+    {
+        "pokemon": "Umbreon"
+    },
+    {
+        "pokemon": "Murkrow"
+    },
+    {
+        "pokemon": "Misdreavus"
+    },
+    {
+        "pokemon": "Girafarig"
+    },
+    {
+        "pokemon": "Pineco"
+    },
+    {
+        "pokemon": "Forretress"
+    },
+    {
+        "pokemon": "Dunsparce"
+    },
+    {
+        "pokemon": "Qwilfish"
+    },
+    {
+        "pokemon": "Heracross"
+    },
+    {
+        "pokemon": "Sneasel"
+    },
+    {
+        "pokemon": "Teddiursa"
+    },
+    {
+        "pokemon": "Ursaring"
+    },
+    {
+        "pokemon": "Delibird"
+    },
+    {
+        "pokemon": "Houndour"
+    },
+    {
+        "pokemon": "Houndoom"
+    },
+    {
+        "pokemon": "Phanpy"
+    },
+    {
+        "pokemon": "Donphan"
+    },
+    {
+        "pokemon": "Stantler"
+    },
+    {
+        "pokemon": "Blissey"
+    },
+    {
+        "pokemon": "Larvitar"
+    },
+    {
+        "pokemon": "Pupitar"
+    },
+    {
+        "pokemon": "Wingull"
+    },
+    {
+        "pokemon": "Pelipper"
+    },
+    {
+        "pokemon": "Ralts"
+    },
+    {
+        "pokemon": "Kirlia"
+    },
+    {
+        "pokemon": "Gardevoir"
+    },
+    {
+        "pokemon": "Surskit"
+    },
+    {
+        "pokemon": "Masquerain"
+    },
+    {
+        "pokemon": "Shroomish"
+    },
+    {
+        "pokemon": "Breloom"
+    },
+    {
+        "pokemon": "Slakoth"
+    },
+    {
+        "pokemon": "Vigoroth"
+    },
+    {
+        "pokemon": "Slaking"
+    },
+    {
+        "pokemon": "Makuhita"
+    },
+    {
+        "pokemon": "Hariyama"
+    },
+    {
+        "pokemon": "Azurill"
+    },
+    {
+        "pokemon": "Sableye"
+    },
+    {
+        "pokemon": "Meditite"
+    },
+    {
+        "pokemon": "Medicham"
+    },
+    {
+        "pokemon": "Gulpin"
+    },
+    {
+        "pokemon": "Swalot"
+    },
+    {
+        "pokemon": "Numel"
+    },
+    {
+        "pokemon": "Camerupt"
+    },
+    {
+        "pokemon": "Torkoal"
+    },
+    {
+        "pokemon": "Spoink"
+    },
+    {
+        "pokemon": "Grumpig"
+    },
+    {
+        "pokemon": "Cacnea"
+    },
+    {
+        "pokemon": "Cacturne"
+    },
+    {
+        "pokemon": "Swablu"
+    },
+    {
+        "pokemon": "Altaria"
+    },
+    {
+        "pokemon": "Zangoose"
+    },
+    {
+        "pokemon": "Seviper"
+    },
+    {
+        "pokemon": "Barboach"
+    },
+    {
+        "pokemon": "Whiscash"
+    },
+    {
+        "pokemon": "Shuppet"
+    },
+    {
+        "pokemon": "Banette"
+    },
+    {
+        "pokemon": "Tropius"
+    },
+    {
+        "pokemon": "Snorunt"
+    },
+    {
+        "pokemon": "Glalie"
+    },
+    {
+        "pokemon": "Luvdisc"
+    },
+    {
+        "pokemon": "Bagon"
+    },
+    {
+        "pokemon": "Shelgon"
+    },
+    {
+        "pokemon": "Starly"
+    },
+    {
+        "pokemon": "Staravia"
+    },
+    {
+        "pokemon": "Staraptor"
+    },
+    {
+        "pokemon": "Kricketot"
+    },
+    {
+        "pokemon": "Kricketune"
+    },
+    {
+        "pokemon": "Shinx"
+    },
+    {
+        "pokemon": "Luxio"
+    },
+    {
+        "pokemon": "Luxray"
+    },
+    {
+        "pokemon": "Combee"
+    },
+    {
+        "pokemon": "Vespiquen"
+    },
+    {
+        "pokemon": "Pachirisu"
+    },
+    {
+        "pokemon": "Buizel"
+    },
+    {
+        "pokemon": "Floatzel"
+    },
+    {
+        "pokemon": "Shellos"
+    },
+    {
+        "pokemon": "Gastrodon"
+    },
+    {
+        "pokemon": "Drifloon"
+    },
+    {
+        "pokemon": "Drifblim"
+    },
+    {
+        "pokemon": "Mismagius"
+    },
+    {
+        "pokemon": "Honchkrow"
+    },
+    {
+        "pokemon": "Stunky"
+    },
+    {
+        "pokemon": "Skuntank"
+    },
+    {
+        "pokemon": "Bronzor"
+    },
+    {
+        "pokemon": "Bronzong"
+    },
+    {
+        "pokemon": "Bonsly"
+    },
+    {
+        "pokemon": "Happiny"
+    },
+    {
+        "pokemon": "Gible"
+    },
+    {
+        "pokemon": "Gabite"
+    },
+    {
+        "pokemon": "Riolu"
+    },
+    {
+        "pokemon": "Lucario"
+    },
+    {
+        "pokemon": "Hippopotas"
+    },
+    {
+        "pokemon": "Hippowdon"
+    },
+    {
+        "pokemon": "Croagunk"
+    },
+    {
+        "pokemon": "Toxicroak"
+    },
+    {
+        "pokemon": "Finneon"
+    },
+    {
+        "pokemon": "Lumineon"
+    },
+    {
+        "pokemon": "Snover"
+    },
+    {
+        "pokemon": "Abomasnow"
+    },
+    {
+        "pokemon": "Weavile"
+    },
+    {
+        "pokemon": "Leafeon"
+    },
+    {
+        "pokemon": "Glaceon"
+    },
+    {
+        "pokemon": "Gallade"
+    },
+    {
+        "pokemon": "Froslass"
+    },
+    {
+        "pokemon": "Rotom"
+    },
+    {
+        "pokemon": "Petilil"
+    },
+    {
+        "pokemon": "Lilligant"
+    },
+    {
+        "pokemon": "Basculin"
+    },
+    {
+        "pokemon": "Sandile"
+    },
+    {
+        "pokemon": "Krokorok"
+    },
+    {
+        "pokemon": "Zorua"
+    },
+    {
+        "pokemon": "Zoroark"
+    },
+    {
+        "pokemon": "Gothita"
+    },
+    {
+        "pokemon": "Gothorita"
+    },
+    {
+        "pokemon": "Gothitelle"
+    },
+    {
+        "pokemon": "Deerling"
+    },
+    {
+        "pokemon": "Sawsbuck"
+    },
+    {
+        "pokemon": "Foongus"
+    },
+    {
+        "pokemon": "Amoonguss"
+    },
+    {
+        "pokemon": "Alomomola"
+    },
+    {
+        "pokemon": "Tynamo"
+    },
+    {
+        "pokemon": "Eelektrik"
+    },
+    {
+        "pokemon": "Axew"
+    },
+    {
+        "pokemon": "Fraxure"
+    },
+    {
+        "pokemon": "Cubchoo"
+    },
+    {
+        "pokemon": "Beartic"
+    },
+    {
+        "pokemon": "Cryogonal"
+    },
+    {
+        "pokemon": "Pawniard"
+    },
+    {
+        "pokemon": "Bisharp"
+    },
+    {
+        "pokemon": "Rufflet"
+    },
+    {
+        "pokemon": "Braviary"
+    },
+    {
+        "pokemon": "Deino"
+    },
+    {
+        "pokemon": "Zweilous"
+    },
+    {
+        "pokemon": "Larvesta"
+    },
+    {
+        "pokemon": "Volcarona"
+    },
+    {
+        "pokemon": "Fletchling"
+    },
+    {
+        "pokemon": "Fletchinder"
+    },
+    {
+        "pokemon": "Talonflame"
+    },
+    {
+        "pokemon": "Scatterbug"
+    },
+    {
+        "pokemon": "Spewpa"
+    },
+    {
+        "pokemon": "Vivillon"
+    },
+    {
+        "pokemon": "Litleo"
+    },
+    {
+        "pokemon": "Pyroar"
+    },
+    {
+        "pokemon": "Flabébé"
+    },
+    {
+        "pokemon": "Floette"
+    },
+    {
+        "pokemon": "Florges"
+    },
+    {
+        "pokemon": "Skiddo"
+    },
+    {
+        "pokemon": "Gogoat"
+    },
+    {
+        "pokemon": "Skrelp"
+    },
+    {
+        "pokemon": "Dragalge"
+    },
+    {
+        "pokemon": "Clauncher"
+    },
+    {
+        "pokemon": "Clawitzer"
+    },
+    {
+        "pokemon": "Sylveon"
+    },
+    {
+        "pokemon": "Hawlucha"
+    },
+    {
+        "pokemon": "Dedenne"
+    },
+    {
+        "pokemon": "Goomy"
+    },
+    {
+        "pokemon": "Sliggoo"
+    },
+    {
+        "pokemon": "Klefki"
+    },
+    {
+        "pokemon": "Bergmite"
+    },
+    {
+        "pokemon": "Avalugg"
+    },
+    {
+        "pokemon": "Noibat"
+    },
+    {
+        "pokemon": "Noivern"
+    },
+    {
+        "pokemon": "Yungoos"
+    },
+    {
+        "pokemon": "Gumshoos"
+    },
+    {
+        "pokemon": "Crabrawler"
+    },
+    {
+        "pokemon": "Crabominable"
+    },
+    {
+        "pokemon": "Oricorio"
+    },
+    {
+        "pokemon": "Rockruff"
+    },
+    {
+        "pokemon": "Lycanroc"
+    },
+    {
+        "pokemon": "Mareanie"
+    },
+    {
+        "pokemon": "Toxapex"
+    },
+    {
+        "pokemon": "Mudbray"
+    },
+    {
+        "pokemon": "Mudsdale"
+    },
+    {
+        "pokemon": "Fomantis"
+    },
+    {
+        "pokemon": "Lurantis"
+    },
+    {
+        "pokemon": "Salandit"
+    },
+    {
+        "pokemon": "Salazzle"
+    },
+    {
+        "pokemon": "Bounsweet"
+    },
+    {
+        "pokemon": "Steenee"
+    },
+    {
+        "pokemon": "Oranguru"
+    },
+    {
+        "pokemon": "Passimian"
+    },
+    {
+        "pokemon": "Sandygast"
+    },
+    {
+        "pokemon": "Palossand"
+    },
+    {
+        "pokemon": "Komala"
+    },
+    {
+        "pokemon": "Mimikyu"
+    },
+    {
+        "pokemon": "Bruxish"
+    },
+    {
+        "pokemon": "Skwovet"
+    },
+    {
+        "pokemon": "Greedent"
+    },
+    {
+        "pokemon": "Rookidee"
+    },
+    {
+        "pokemon": "Corvisquire"
+    },
+    {
+        "pokemon": "Chewtle"
+    },
+    {
+        "pokemon": "Drednaw"
+    },
+    {
+        "pokemon": "Rolycoly"
+    },
+    {
+        "pokemon": "Carkol"
+    },
+    {
+        "pokemon": "Applin"
+    },
+    {
+        "pokemon": "Silicobra"
+    },
+    {
+        "pokemon": "Sandaconda"
+    },
+    {
+        "pokemon": "Arrokuda"
+    },
+    {
+        "pokemon": "Barraskewda"
+    },
+    {
+        "pokemon": "Toxel"
+    },
+    {
+        "pokemon": "Toxtricity"
+    },
+    {
+        "pokemon": "Sinistea"
+    },
+    {
+        "pokemon": "Hatenna"
+    },
+    {
+        "pokemon": "Hattrem"
+    },
+    {
+        "pokemon": "Impidimp"
+    },
+    {
+        "pokemon": "Morgrem"
+    },
+    {
+        "pokemon": "Falinks"
+    },
+    {
+        "pokemon": "Pincurchin"
+    },
+    {
+        "pokemon": "Snom"
+    },
+    {
+        "pokemon": "Frosmoth"
+    },
+    {
+        "pokemon": "Stonjourner"
+    },
+    {
+        "pokemon": "Eiscue"
+    },
+    {
+        "pokemon": "Indeedee"
+    },
+    {
+        "pokemon": "Cufant"
+    },
+    {
+        "pokemon": "Copperajah"
+    },
+    {
+        "pokemon": "Dreepy"
+    },
+    {
+        "pokemon": "Drakloak"
+    },
+    {
+        "pokemon": "Lechonk"
+    },
+    {
+        "pokemon": "Oinkologne"
+    },
+    {
+        "pokemon": "Tarountula"
+    },
+    {
+        "pokemon": "Spidops"
+    },
+    {
+        "pokemon": "Nymble"
+    },
+    {
+        "pokemon": "Lokix"
+    },
+    {
+        "pokemon": "Pawmi"
+    },
+    {
+        "pokemon": "Pawmo"
+    },
+    {
+        "pokemon": "Tandemaus"
+    },
+    {
+        "pokemon": "Fidough"
+    },
+    {
+        "pokemon": "Dachsbun"
+    },
+    {
+        "pokemon": "Smoliv"
+    },
+    {
+        "pokemon": "Dolliv"
+    },
+    {
+        "pokemon": "Squawkabilly"
+    },
+    {
+        "pokemon": "Nacli"
+    },
+    {
+        "pokemon": "Naclstack"
+    },
+    {
+        "pokemon": "Garganacl"
+    },
+    {
+        "pokemon": "Charcadet"
+    },
+    {
+        "pokemon": "Tadbulb"
+    },
+    {
+        "pokemon": "Bellibolt"
+    },
+    {
+        "pokemon": "Wattrel"
+    },
+    {
+        "pokemon": "Kilowattrel"
+    },
+    {
+        "pokemon": "Maschiff"
+    },
+    {
+        "pokemon": "Mabosstiff"
+    },
+    {
+        "pokemon": "Shroodle"
+    },
+    {
+        "pokemon": "Grafaiai"
+    },
+    {
+        "pokemon": "Bramblin"
+    },
+    {
+        "pokemon": "Brambleghast"
+    },
+    {
+        "pokemon": "Toedscool"
+    },
+    {
+        "pokemon": "Toedscruel"
+    },
+    {
+        "pokemon": "Klawf"
+    },
+    {
+        "pokemon": "Capsakid"
+    },
+    {
+        "pokemon": "Scovillain"
+    },
+    {
+        "pokemon": "Rellor"
+    },
+    {
+        "pokemon": "Rabsca"
+    },
+    {
+        "pokemon": "Flittle"
+    },
+    {
+        "pokemon": "Espathra"
+    },
+    {
+        "pokemon": "Tinkatink"
+    },
+    {
+        "pokemon": "Tinkatuff"
+    },
+    {
+        "pokemon": "Wiglett"
+    },
+    {
+        "pokemon": "Wugtrio"
+    },
+    {
+        "pokemon": "Bombirdier"
+    },
+    {
+        "pokemon": "Finizen"
+    },
+    {
+        "pokemon": "Varoom"
+    },
+    {
+        "pokemon": "Revavroom"
+    },
+    {
+        "pokemon": "Cyclizar"
+    },
+    {
+        "pokemon": "Orthworm"
+    },
+    {
+        "pokemon": "Glimmet"
+    },
+    {
+        "pokemon": "Glimmora"
+    },
+    {
+        "pokemon": "Greavard"
+    },
+    {
+        "pokemon": "Houndstone"
+    },
+    {
+        "pokemon": "Flamigo"
+    },
+    {
+        "pokemon": "Cetoddle"
+    },
+    {
+        "pokemon": "Cetitan"
+    },
+    {
+        "pokemon": "Veluza"
+    },
+    {
+        "pokemon": "Dondozo"
+    },
+    {
+        "pokemon": "Tatsugiri"
+    },
+    {
+        "pokemon": "Clodsire"
+    },
+    {
+        "pokemon": "Farigiraf"
+    },
+    {
+        "pokemon": "Dudunsparce"
+    },
+    {
+        "pokemon": "Frigibax"
+    },
+    {
+        "pokemon": "Arctibax"
+    }
+]

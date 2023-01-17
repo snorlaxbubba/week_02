@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon Outbreak</title>
+</head>
+<body>
+    <main>
+        <h1>Pokemon Outbreaks</h1>
+
+        <form action="createPokemon" method="POST">
+            <label for="title">Name Your Outbreak</label>
+            <input type="text" name="title">
+            <br />
+            <label for="pokemon">Select Your Pokemon:</label>
+            <select name="pokemon" id="pokemon">
+                <%
+                    for (let i = 0; i < pokemon.length; i++) {
+                        let obj = pokemon[i];
+                        for(let key in obj) {
+                            var value = obj[key]
+                            %> <option value="<%= value %>"><%= value %></option>
+                <% }} %> 
+            </select>
+            <br />
+
+            <label for="numDefeated">How many pokemon have you defeated in this outbreak?</label>
+            <input type="number" name="numDefeated" id="numDefeated">
+            <br />
+
+            <button type="submit">Create</button>
+            <button type="reset">Reset Form</button>
+
+        </form>
+
+        <ul>
+            <% for (let i = 0; i < pokemonSql.length; i++ ) { %>
+
+                <li>
+                    <h2><%= pokemonSql[i].title %></h2>
+                    <p><%= pokemonSql[i].pokemon %></p>
+                    <p><%= pokemonSql[i].numDefeated %></p>
+                
+
+                    <form action="/deletePokemon" method="post">
+                        <input type="hidden" name="id" value="<%= pokemonSql[i].id %>">
+                        <button type="submit">Delete</button>
+                    </form>
+
+                    <form action="/:id" method="post">
+                        <input type="hidden" name="pokemonId" value="<%= pokemonSql[i].id %>">
+                        <button type="submit">View</button>
+                        </form>
+                </li>
+            <% } %>
+        </ul>
+    </main>
+</body>
+</html>
